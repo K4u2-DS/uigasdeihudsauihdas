@@ -1,0 +1,11 @@
+{
+  "title": "hvbjudsfjkibdsfg",
+  "description": "Creates a responsive, functional prototype based on project documentation and API features to visualize and test application design and usability.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
